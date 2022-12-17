@@ -9,12 +9,12 @@
 
 
 #실행
-1) capture 함수를 통해 데이터셋 직접 생성
-   python caputre.py nomask   
+1) capture 함수를 통해 데이터셋 직접 생성  
+   python caputre.py nomask     
    python caputre.py mask   
    
-2) 데이터 전처리
+2) 데이터 전처리  
    python modelset.py
    
-3) 실행
+3) 실행  
    python main.py
