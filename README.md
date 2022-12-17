@@ -1,7 +1,7 @@
-#딥러닝 실전 예제 프로젝트
-##마스크 착용여부 판별기
+# 딥러닝 실전 예제 프로젝트
+## 마스크 착용여부 판별기
 
-###사전설치 라이브러리 
+### 사전설치 라이브러리 
  1) pip install opencv-python
  2) pip install cvlib
  3) pip install opencv-python tensorflow
@@ -11,7 +11,7 @@
  6) pip install matplotlib
 
 
-###실행
+### 실행
  모델셋을 올려두어서 바로 실행가능합니다. python main.py   
 
 1) capture 함수를 통해 데이터셋 직접 생성  
