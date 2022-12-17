@@ -9,6 +9,8 @@
 
 
 #실행
+ 모델셋을 올려두어서 바로 실행가능합니다. python main.py   
+
 1) capture 함수를 통해 데이터셋 직접 생성  
    python caputre.py nomask     
    python caputre.py mask   
